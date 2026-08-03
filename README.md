@@ -84,7 +84,7 @@ words, numbers, and special characters.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/breach-intelligence-analyzer.git
+git clone https://github.com/koffi763/breach-intelligence-analyzer.git
 ```
 
 Navigate to the project directory:
